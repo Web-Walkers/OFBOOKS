@@ -1,0 +1,35 @@
+{
+  "name": "ofbooks-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.10.0",
+    "@vueuse/sound": "^2.0.1",
+    "aos": "^3.0.0-beta.6",
+    "apexcharts": "^3.49.1",
+    "axios": "^1.7.2",
+    "flowbite": "^2.3.0",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-advanced-cropper": "^2.8.9",
+    "vue-apexcharts": "^1.6.2",
+    "vue-router": "^4.3.0",
+    "vue3-apexcharts": "^1.5.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@types/node": "^20.12.13",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.8"
+  }
+}

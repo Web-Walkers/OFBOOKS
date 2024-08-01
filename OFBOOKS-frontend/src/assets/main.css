@@ -1,0 +1,6 @@
+@import "./transition.vue.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
